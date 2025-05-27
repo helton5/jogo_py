@@ -64,6 +64,9 @@ class QuadradoColorido(pygame.sprite.Sprite):
             self.velocidadeX *= -1
         if self.rect.top <= 0 or self.rect.bottom >= 720:
             self.velocidadeY *= -1
+    
+    def redar(self):
+        pygame.draw.circle()
 
 # Criar os sprites
 for _ in range(12):
