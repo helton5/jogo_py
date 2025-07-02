@@ -1,0 +1,3 @@
+qtda_bola: 5
+velocidade: 5
+frames_criacao_bolinhas: 60
