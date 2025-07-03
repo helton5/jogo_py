@@ -1,5 +1,8 @@
 #Jogo das Bolinhas (Pygame)
 
+![Uploading bolinhas.gif…]()
+
+
 Este é um projeto visual e interativo feito com Pygame, onde três tipos de bolinhas coloridas (verdes, vermelhas e amarelas) interagem entre si e com bolinhas cinzas geradas ao longo do tempo. Cada tipo de bolinha tem um comportamento especial e pode "consumir" outras bolinhas com base em uma lógica de dominação estilo pedra-papel-tesoura:
 
 Verde come Vermelho
